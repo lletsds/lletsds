@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=FFB6D9&height=180&section=header&text=Hello,%20I'm%20Leticia!&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=FFB6D9&height=180&section=header&text=Hello,%20I'm%20Letícia!&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45" />
 
 ### ♡ Bem-vinda(o) ao meu cantinho de tecnologia! ♡
 
