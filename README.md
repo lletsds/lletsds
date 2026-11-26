@@ -21,6 +21,8 @@ Uma garota apaixonada por tecnologia, programação e jogos vorazes!.
 -  Tenho interesse em tecnologia e desenvolvimento de software.
 -  Gosto de aprender coisas novas e melhorar minhas habilidades.
 -  Acredito que cada linha de código é uma oportunidade de criar algo incrível!
+-  Estudo na **EEEP Maria Carmem Vieira Moreira**, uma escola profissionalizante.
+-  Atualmente estudo **Logica de IA e Desenvolvimento de Sistemas**.
 
 <br clear="right"/>
 
