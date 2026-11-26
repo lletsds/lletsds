@@ -5,7 +5,7 @@
 
 ### ♡ Bem-vinda(o) ao meu cantinho de tecnologia! ♡
 
-Uma garota apaixonada por tecnologia, programação e por transformar ideias em código.
+Uma garota apaixonada por tecnologia, programação e jogos vorazes!.
 
 </div>
 
@@ -15,10 +15,10 @@ Uma garota apaixonada por tecnologia, programação e por transformar ideias em 
 
 ### 🌷 Sobre mim
 
-- ♡ Olá! Meu nome é **Leticia**.
+- ♡ Olá! Meu nome é **Maria Leticia**.
 - ♡ Sou profissional em **Python e Portugol**.
 - ♡ Tenho interesse em tecnologia e desenvolvimento de software.
-- ♡ Gosto de aprender coisas novas e aprimorar minhas habilidades.
+- ♡ Gosto de aprender coisas novas e melhorar minhas habilidades.
 - ♡ Acredito que cada linha de código é uma oportunidade de criar algo incrível!
 
 <br clear="right"/>
