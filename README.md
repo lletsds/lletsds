@@ -14,7 +14,7 @@ Uma garota apaixonada por tecnologia, programação e jogos vorazes!.
 <img align="right" width="130" src="https://i.pinimg.com/originals/f9/24/8e/f9248eb67138c905b0d86f04fd12c003.gif" />
 
 
-### 🌷 Sobre mim
+###  Sobre mim
 
 -  Oie! Meu nome é **Maria Leticia**.
 -  Sou profissional em **Python e Portugol**.
@@ -28,7 +28,7 @@ Uma garota apaixonada por tecnologia, programação e jogos vorazes!.
 
 ---
 
-### 🎀 Tecnologias e ferramentas
+###  Tecnologias e ferramentas
 
 **Linguagens de programação**
 
@@ -58,9 +58,9 @@ Uma garota apaixonada por tecnologia, programação e jogos vorazes!.
 </a>
 </p>
 
-📧 **E-mail:** cabralleticia054@gmail.com
+ **E-mail:** cabralleticia054@gmail.com
 
-💻 **GitHub:** [@letsds](https://github.com/letsds)
+ **GitHub:** [@letsds](https://github.com/letsds)
 
 ---
 
