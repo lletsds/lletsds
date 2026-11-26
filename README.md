@@ -66,7 +66,7 @@ Uma garota apaixonada por tecnologia, programação e jogos vorazes!.
 
 ### ♡ Obrigada pela visita! ♡
 
-*Programando meus sonhos, uma linha de código por vez.*
+*Que a sorte esteja sempre a seu favor.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6D9&height=100&section=footer" />
 
