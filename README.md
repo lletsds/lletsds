@@ -11,7 +11,7 @@ Uma garota apaixonada por tecnologia, programação e jogos vorazes!.
 
 ---
 
-<img align="right" width="130" src="https://br.pinterest.com/pin/991425305488051592/" />
+<img align="right" width="130" src="images/meu-gif.gif" />
 
 
 ### 🌷 Sobre mim
