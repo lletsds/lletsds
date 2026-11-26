@@ -16,7 +16,7 @@ Uma garota apaixonada por tecnologia, programação e jogos vorazes!.
 
 ### 🌷 Sobre mim
 
--  Olá! Meu nome é **Maria Leticia**.
+-  Oie! Meu nome é **Maria Leticia**.
 -  Sou profissional em **Python e Portugol**.
 -  Tenho interesse em tecnologia e desenvolvimento de software.
 -  Gosto de aprender coisas novas e melhorar minhas habilidades.
